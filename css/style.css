@@ -1,0 +1,42 @@
+h1{
+   text-align:center;
+   font-size: 45px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   ;
+   font-weight: 900;
+}
+
+
+   p{
+font-size: 18px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+line-height: 32px;
+ }
+
+ #first_p{
+
+    color:rgb(255, 0, 17);
+}
+
+#second_p{
+     
+    color:blue
+}
+#third_p{ 
+    color:black
+}
+a{   
+   text-decoration: none;
+   display: block;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    width: 150px;
+    background-color: black;
+    color: beige;
+    height:50px;
+    text-align: center;
+line-height: 50px;
+border-radius: 20px;
+}
+
